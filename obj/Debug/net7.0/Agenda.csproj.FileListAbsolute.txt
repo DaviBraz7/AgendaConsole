@@ -1,0 +1,15 @@
+C:\Users\Davi\Documents\csharp\Agenda\bin\Debug\net7.0\Agenda.exe
+C:\Users\Davi\Documents\csharp\Agenda\bin\Debug\net7.0\Agenda.deps.json
+C:\Users\Davi\Documents\csharp\Agenda\bin\Debug\net7.0\Agenda.runtimeconfig.json
+C:\Users\Davi\Documents\csharp\Agenda\bin\Debug\net7.0\Agenda.dll
+C:\Users\Davi\Documents\csharp\Agenda\bin\Debug\net7.0\Agenda.pdb
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.csproj.AssemblyReference.cache
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfoInputs.cache
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.AssemblyInfo.cs
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.dll
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\refint\Agenda.dll
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.pdb
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\Agenda.genruntimeconfig.cache
+C:\Users\Davi\Documents\csharp\Agenda\obj\Debug\net7.0\ref\Agenda.dll
